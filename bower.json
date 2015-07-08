@@ -24,7 +24,7 @@
     "CNAME",
     "build.sh",
     "index.html",
-    "todo.txt"
+    "todo.txt",
     "Makefile",
     "wscript.py"
   ]
