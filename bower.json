@@ -15,14 +15,17 @@
   "ignore": [
     "**/.*",
     "libs",
-    "CNAME",
-    "jspdf.js",
-    "examples/jspdf.PLUGINTEMPLATE.js",
-    "plugins/*",
-    "todo.txt",
-    "wscript.py",
-    "build.sh",
+    "doc",
+    "examples",
+    "libs",
     "test",
-    "tools"
+    "tools",
+
+    "CNAME",
+    "build.sh",
+    "index.html",
+    "todo.txt"
+    "Makefile",
+    "wscript.py"
   ]
 }
